@@ -8,8 +8,7 @@ Attach the program
 ```
 # Output Waveform
 ```
-Attach the ou!
-tput waveform
+Attach the output waveform
 ```
 
 
