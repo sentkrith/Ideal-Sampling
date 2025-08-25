@@ -8,9 +8,11 @@ Attach the program
 ```
 # Output Waveform
 ```
-Attach the ou![IMG-20250228-WA0044](https://github.com/user-attachments/assets/26b68f78-deb3-4af2-88a0-9cea39c69be0)
+Attach the ou!
 tput waveform
 ```
+![IMG-20250228-WA0044](https://github.com/user-attachments/assets/b7c52c14-44e1-4c4e-a308-803130e45755)
+
 # Results
 ```
 Attach the output waveform
