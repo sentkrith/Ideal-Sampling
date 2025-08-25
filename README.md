@@ -11,7 +11,7 @@ Attach the program
 Attach the ou!
 tput waveform
 ```
-![IMG-20250228-WA0044](https://github.com/user-attachments/assets/b7c52c14-44e1-4c4e-a308-803130e45755)
+
 
 # Results
 ```
