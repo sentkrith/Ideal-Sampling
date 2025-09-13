@@ -16,19 +16,23 @@ import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
 
 #Parameters
+
 fs = 1000  # Sampling frequency (samples per second)
 T = 1      # Duration in seconds
 t = np.arange(0, T, 1/fs)  # Time vector
 
-# Message Signal (sine wave message)
+#Message Signal (sine wave message)
+
 fm = 5  # Frequency of message signal (Hz)
 message_signal = np.sin(2 * np.pi * fm * t)
 
-# Pulse Train Parameters
+#Pulse Train Parameters
+
 pulse_rate = 50  # pulses per second
 pulse_train = np.zeros_like(t)
 
-# Construct Pulse Train (rectangular pulses)
+#Construct Pulse Train (rectangular pulses)
+
 pulse_width = int(fs / pulse_rate / 2)
 for i in range(0, len(t), int(fs / pulse_rate)):
     pulse_train[i:i+pulse_width] = 1    
