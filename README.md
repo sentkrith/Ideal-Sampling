@@ -1,4 +1,4 @@
-<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/0d249521-77d0-4a00-810a-4b67d646b10d" /># Ideal, Natural, & Flat-top -Sampling
+# Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
@@ -219,6 +219,6 @@ plt.show()
 
 # Results
 ```
-Attach the output waveform
+Thus, the python programs for ideal sampling, natural sampling and flat-top sampling has been executed and verified successfully.
 ```
 # Hardware experiment output waveform.
