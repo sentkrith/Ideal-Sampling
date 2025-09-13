@@ -1,4 +1,4 @@
-# Ideal, Natural, & Flat-top -Sampling
+<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/0d249521-77d0-4a00-810a-4b67d646b10d" /># Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
@@ -51,8 +51,8 @@ plt.legend()
 plt.show()
 ```
 # Natural Sampling
-
-# Natural sampling
+```python
+#Natural sampling
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -132,9 +132,9 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
-
-#Flat-top Sampling
-
+```
+# Flat-top Sampling
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -204,13 +204,18 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
+```
 # Output Waveform
 # Ideal Sampling
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/90818395-5dfe-48e7-97a3-aee1a59cf955" />
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/4f3352bb-bf66-417b-b451-bc4bcbc45881" />
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/175a3fcb-980d-4cd1-9723-ddb1616978bd" />
 
+# Natural Sampling
+<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/7b8b91f9-0470-4d26-9144-f425997cd2b4" />
 
+# Flat-top Sampling
+<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/e5868eed-fa3d-485a-a41c-37404928191f" />
 
 # Results
 ```
