@@ -6,7 +6,7 @@ Python IDE with Numpy and Scipy.
 # Program
 
 # Ideal Sampling 
-'''python
+```python
 #Ideal Sampling
 
 import numpy as np
@@ -49,7 +49,7 @@ plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
 plt.show()
-'''
+```
 # Natural Sampling
 
 # Natural sampling
